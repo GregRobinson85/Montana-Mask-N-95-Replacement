@@ -1,6 +1,8 @@
 # Montana-Mask-N-95-Replacement
 This repository is for parts source files and information regarding 3D printable medical masks.
 
+For reference, the size M mask costs $3.40 printed in TPU. 
+
 Regarding files in .zip
 The main source file is an F3D. I've scaled the original mask into two new parts, creating a Medium and a Small in addition
 to the original, which I'm calling Large. The scale factor is noted in the file names (90% and 80%, respectively for Medium
