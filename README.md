@@ -15,3 +15,6 @@ contact with medical providers' skin. PLA was orignally suggested but it's a bad
 
 PLA or PETG or other rigid material should be used for the filter adapter which, again, should be scaled according to the size mask it
 will fit into. 
+
+TPU filament can be found here: https://www.matterhackers.com/store/c/TPU%20%28Thermoplastic%20Polyurethane%29
+PLA filament here:https://www.matterhackers.com/store/3d-printer-filament/pla
